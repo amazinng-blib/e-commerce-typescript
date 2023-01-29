@@ -1,0 +1,11 @@
+export { default as logo } from './logo.png';
+export { default as bicycle } from './bicycle.webp';
+export { default as handbag2 } from './handbag2.jpg';
+export { default as handbags } from './handbags.webp';
+export { default as laptop } from './laptop.jpg';
+export { default as nivea } from './nivea.png';
+export { default as shoe } from './shoe.webp';
+export { default as snikkers } from './snikkers.webp';
+export { default as speaker } from './speaker.png';
+// export { default as wristwatch } from './wristwatch.webp';
+export { default as wristwatch } from './wristwatch.webp';
